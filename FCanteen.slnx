@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="FCanteen.Data/FCanteen.Data.csproj" />
+  <Project Path="FCanteen.KitchenServer/FCanteen.KitchenServer.csproj" />
+  <Project Path="FCanteen.PosClient/FCanteen.PosClient.csproj" />
+</Solution>
